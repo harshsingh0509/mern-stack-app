@@ -1,21 +1,21 @@
 {
-    "name": "mern-stack-app",
-    "version": "1.0.0",
-    "description": "A MERN stack application",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js",
-      "build": "webpack --mode production",
-      "test": "jest"
-    },
-    "author": "Your Name",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.17.1"
-    },
-    "devDependencies": {
-      "jest": "^26.6.3",
-      "webpack": "^5.10.0"
-    }
+  "name": "mern-stack-app",
+  "version": "1.0.0",
+  "description": "A MERN stack application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack --mode production",
+    "test": "jest"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.0.0"
   }
-  
+}
